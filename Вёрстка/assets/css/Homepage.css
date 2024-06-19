@@ -844,15 +844,14 @@ button {
   line-height: 44px;
   letter-spacing: 0.5px;
 }
+}
 .cardTwo {
-  background-color: #1E212C;
+    background-color: #1E212C;
 
-.text div p {
-  color: white;
-}
-}
-
-}
+  .text div p {
+    color: white;
+  }
+  }
 }
 .imgThree {
   position: absolute;
